@@ -1,4 +1,4 @@
-## How to Integrate a framework or an add-on into the editor!
+## How to Integrate a framework or an add-on into the [BragnDrop Editor](https://bragndrop.com/)!
 
  1. Go to [hacked.bragndrop.com](https://hacked.bragndrop.com).
  2. Select **Import**.
