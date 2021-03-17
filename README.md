@@ -3,7 +3,7 @@
  1. Go to [hacked.bragndrop.com](https://hacked.bragndrop.com).
  2. Select **Import**.
  3. The source code for the framework or add-on you want to edit (these files are located in the **src** folder).
- 4. Copy the content of this file into hacked.bragndrop.com.
+ 4. Copy the content of the file into hacked.bragndrop.com.
  5. Click on **Import**.
 
 
