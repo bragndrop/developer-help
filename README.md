@@ -7,6 +7,4 @@
  5. Click on **Import**.
 
 
-Please feel free to join our Slack Page and give us some tips to make bragndrop even better:
-
-bragndrop.slack.com
+Please feel free to join our [discussions page](https://github.com/hamari-agency/bragndrop-developer-help/discussions) and give us some tips to make bragndrop even better:
